@@ -1,4 +1,4 @@
-package vaquar.khan.poc;
+package divyanshu.singh.poc;
 
 import kafka.serializer.StringDecoder;
 import org.apache.spark.SparkConf;
